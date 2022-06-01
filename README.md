@@ -1,4 +1,6 @@
-### Hi there 👋
+ Hi there 👋
+I'm Vladimir and I'm a student of National Aerospace University "Kharkiv Aviation Institute". My speciality is Telecommunication and Radioengineering (Radio Electronic Devices, Systems and Complexes). 
+
 
 <!--
 **Volodymyr-Gordienko/Volodymyr-Gordienko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
